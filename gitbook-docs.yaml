@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: AloGolf Documentation
+  structure:
+    - type: space
+      key: space-docs
+      title: AloGolf Documentation
+      path: docs
+      default: true
+      content:
+        directory: .

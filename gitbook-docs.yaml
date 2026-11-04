@@ -8,5 +8,4 @@ site:
       path: docs
       default: true
       content:
-        directory: .
-
+        directory: ./
